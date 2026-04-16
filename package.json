@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/SilvertLogic/First-Project/issues"
   },
-  "homepage": "https://github.com/SilvertLogic/First-Project#readme"
+  "homepage": "https://github.com/SilvertLogic/First-Project#readme",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.2.2",
+    "tailwindcss": "^4.2.2",
+    "vite": "^8.0.8"
+  }
 }
